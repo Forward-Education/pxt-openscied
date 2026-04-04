@@ -1,0 +1,16 @@
+{
+    "name": "openscied",
+    "version": "1.0.0",
+    "description": "OpenSciEd hardware modules extension, micro:bit V2 only.",
+    "license": "MIT",
+    "dependencies": {},
+    "files": ["README.md"],
+    "testFiles": ["tests/test.ts"],
+    "public": true,
+    "targetVersions": {
+        "target": "8.0.13",
+        "targetId": "microbit"
+    },
+    "supportedTargets": ["microbit"],
+    "preferredEditor": "tsprj"
+}
