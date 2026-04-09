@@ -3,7 +3,14 @@
     "version": "1.0.0",
     "description": "OpenSciEd hardware modules extension, micro:bit V2 only.",
     "license": "MIT",
-    "dependencies": {},
+    "dependencies": {
+        "openscied-bme280": "github:Forward-Education/pxt-ose-modules/ose-bme280#f745835df49ffb96a60835094b6caffc38252f9a",
+        "openscied-flex": "github:Forward-Education/pxt-ose-modules/ose-flex#f745835df49ffb96a60835094b6caffc38252f9a",
+        "openscied-light": "github:Forward-Education/pxt-ose-modules/ose-light#f745835df49ffb96a60835094b6caffc38252f9a",
+        "openscied-pump": "github:Forward-Education/pxt-ose-modules/ose-pump#f745835df49ffb96a60835094b6caffc38252f9a",
+        "openscied-servo-continuous": "github:Forward-Education/pxt-ose-modules/ose-servo-continuous#f745835df49ffb96a60835094b6caffc38252f9a",
+        "openscied-servo-positional": "github:Forward-Education/pxt-ose-modules/ose-servo-positional#f745835df49ffb96a60835094b6caffc38252f9a"
+    },
     "files": ["README.md"],
     "testFiles": ["tests/test.ts"],
     "public": true,
