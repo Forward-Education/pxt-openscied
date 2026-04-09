@@ -4,12 +4,12 @@
     "description": "OpenSciEd hardware modules extension, micro:bit V2 only.",
     "license": "MIT",
     "dependencies": {
-        "openscied-bme280": "github:Forward-Education/pxt-ose-modules/ose-bme280#f745835df49ffb96a60835094b6caffc38252f9a",
-        "openscied-flex": "github:Forward-Education/pxt-ose-modules/ose-flex#f745835df49ffb96a60835094b6caffc38252f9a",
-        "openscied-light": "github:Forward-Education/pxt-ose-modules/ose-light#f745835df49ffb96a60835094b6caffc38252f9a",
-        "openscied-pump": "github:Forward-Education/pxt-ose-modules/ose-pump#f745835df49ffb96a60835094b6caffc38252f9a",
-        "openscied-servo-continuous": "github:Forward-Education/pxt-ose-modules/ose-servo-continuous#f745835df49ffb96a60835094b6caffc38252f9a",
-        "openscied-servo-positional": "github:Forward-Education/pxt-ose-modules/ose-servo-positional#f745835df49ffb96a60835094b6caffc38252f9a"
+        "openscied-bme280": "github:Forward-Education/pxt-ose-modules/ose-bme280#576a8c0b20e2f8b7ed0f807fd300bf76b28140a0",
+        "openscied-flex": "github:Forward-Education/pxt-ose-modules/ose-flex#576a8c0b20e2f8b7ed0f807fd300bf76b28140a0",
+        "openscied-light": "github:Forward-Education/pxt-ose-modules/ose-light#576a8c0b20e2f8b7ed0f807fd300bf76b28140a0",
+        "openscied-pump": "github:Forward-Education/pxt-ose-modules/ose-pump#576a8c0b20e2f8b7ed0f807fd300bf76b28140a0",
+        "openscied-servo-continuous": "github:Forward-Education/pxt-ose-modules/ose-servo-continuous#576a8c0b20e2f8b7ed0f807fd300bf76b28140a0",
+        "openscied-servo-positional": "github:Forward-Education/pxt-ose-modules/ose-servo-positional#576a8c0b20e2f8b7ed0f807fd300bf76b28140a0"
     },
     "files": [
         "README.md"
