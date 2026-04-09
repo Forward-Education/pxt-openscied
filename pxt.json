@@ -11,13 +11,19 @@
         "openscied-servo-continuous": "github:Forward-Education/pxt-ose-modules/ose-servo-continuous#f745835df49ffb96a60835094b6caffc38252f9a",
         "openscied-servo-positional": "github:Forward-Education/pxt-ose-modules/ose-servo-positional#f745835df49ffb96a60835094b6caffc38252f9a"
     },
-    "files": ["README.md"],
-    "testFiles": ["tests/test.ts"],
+    "files": [
+        "README.md"
+    ],
+    "testFiles": [
+        "tests/test.ts"
+    ],
     "public": true,
     "targetVersions": {
-        "target": "8.0.13",
+        "target": "8.0.21",
         "targetId": "microbit"
     },
-    "supportedTargets": ["microbit"],
+    "supportedTargets": [
+        "microbit"
+    ],
     "preferredEditor": "tsprj"
 }
