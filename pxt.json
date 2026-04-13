@@ -4,12 +4,21 @@
     "description": "OpenSciEd hardware modules extension, micro:bit V2 only.",
     "license": "MIT",
     "dependencies": {
-        "openscied-bme280": "github:Forward-Education/pxt-ose-modules/ose-bme280#2011aca2931fddea384e9cee54bb270c52496822",
-        "openscied-flex": "github:Forward-Education/pxt-ose-modules/ose-flex#2011aca2931fddea384e9cee54bb270c52496822",
-        "openscied-light": "github:Forward-Education/pxt-ose-modules/ose-light#2011aca2931fddea384e9cee54bb270c52496822",
-        "openscied-pump": "github:Forward-Education/pxt-ose-modules/ose-pump#2011aca2931fddea384e9cee54bb270c52496822",
-        "openscied-servo-continuous": "github:Forward-Education/pxt-ose-modules/ose-servo-continuous#2011aca2931fddea384e9cee54bb270c52496822",
-        "openscied-servo-positional": "github:Forward-Education/pxt-ose-modules/ose-servo-positional#2011aca2931fddea384e9cee54bb270c52496822"
+        "ose-bme280": "github:Forward-Education/pxt-ose-modules/ose-bme280#2011aca2931fddea384e9cee54bb270c52496822",
+        "ose-dial": "github:Forward-Education/pxt-ose-modules/ose-dial#2011aca2931fddea384e9cee54bb270c52496822",
+        "ose-eco2": "github:Forward-Education/pxt-ose-modules/ose-eco2#2011aca2931fddea384e9cee54bb270c52496822",
+        "ose-flex": "github:Forward-Education/pxt-ose-modules/ose-flex#2011aca2931fddea384e9cee54bb270c52496822",
+        "ose-lcd": "github:Forward-Education/pxt-ose-modules/ose-lcd#2011aca2931fddea384e9cee54bb270c52496822",
+        "ose-light": "github:Forward-Education/pxt-ose-modules/ose-light#2011aca2931fddea384e9cee54bb270c52496822",
+        "ose-moisture": "github:Forward-Education/pxt-ose-modules/ose-moisture#2011aca2931fddea384e9cee54bb270c52496822",
+        "ose-pressure": "github:Forward-Education/pxt-ose-modules/ose-pressure#2011aca2931fddea384e9cee54bb270c52496822",
+        "ose-pump": "github:Forward-Education/pxt-ose-modules/ose-pump#2011aca2931fddea384e9cee54bb270c52496822",
+        "ose-servo-continuous": "github:Forward-Education/pxt-ose-modules/ose-servo-continuous#2011aca2931fddea384e9cee54bb270c52496822",
+        "ose-servo-positional": "github:Forward-Education/pxt-ose-modules/ose-servo-positional#2011aca2931fddea384e9cee54bb270c52496822",
+        "ose-slider": "github:Forward-Education/pxt-ose-modules/ose-slider#2011aca2931fddea384e9cee54bb270c52496822",
+        "ose-solar": "github:Forward-Education/pxt-ose-modules/ose-solar#2011aca2931fddea384e9cee54bb270c52496822",
+        "ose-temperature": "github:Forward-Education/pxt-ose-modules/ose-temperature#2011aca2931fddea384e9cee54bb270c52496822",
+        "ose-weight": "github:Forward-Education/pxt-ose-modules/ose-weight#2011aca2931fddea384e9cee54bb270c52496822"
     },
     "files": [
         "README.md"
