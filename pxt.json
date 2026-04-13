@@ -1,6 +1,6 @@
 {
     "name": "openscied",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "OpenSciEd hardware modules extension, micro:bit V2 only.",
     "license": "MIT",
     "dependencies": {
