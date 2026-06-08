@@ -1,4 +1,4 @@
-"# openscied"
+# openscied
 
 This extension supports OpenSciEd Jacdac hardware modules. They are available for purchase as kits at [](). The learning experience is supported as part of the [OpenSciEd curriculum](https://openscied.org/curriculum/).
 

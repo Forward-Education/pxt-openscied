@@ -123,11 +123,11 @@ opensciedModules.pump.timedRun(3)
 // Continuous Servo Tests
 // Type: compilation
 //  setSpeed(servo: opensciedBase.OpensciedServoClient, speed: number): void
-//  getSpeed(servo: opensciedBase.OpensciedServoClient): number
+//  speed(servo: opensciedBase.OpensciedServoClient): number
 //  setupDriving(left: opensciedBase.OpensciedServoClient, right: opensciedBase.OpensciedServoClient)
 //  function drive(leftSpeed: number, rightSpeed: number, duration: number)
 opensciedModules.setSpeed(opensciedBase.leftServo, 0)
-basic.showNumber(opensciedModules.getSpeed(opensciedBase.leftServo))
+basic.showNumber(opensciedModules.speed(opensciedBase.leftServo))
 opensciedModules.setupDriving(opensciedBase.leftServo, opensciedBase.leftServo)
 opensciedModules.drive(50, 50, 2)
 
@@ -136,9 +136,9 @@ opensciedModules.drive(50, 50, 2)
 // setAngleAndWait() doesn't work in the simulator, but does with physical hardware.
 // The "ADD SIMULATORS" button will add a 180 servo instead of a 270
 //  setAngle(servo: opensciedBase.OpensciedServoClient, angle: number): void
-//  getAngle(servo: opensciedBase.OpensciedServoClient): number
+//  angle(servo: opensciedBase.OpensciedServoClient): number
 opensciedModules.setAngle(opensciedBase.leftServo, 90)
-opensciedModules.getAngle(opensciedBase.leftServo)
+opensciedModules.angle(opensciedBase.leftServo)
 
 // Slider Tests
 // Type: compilation
