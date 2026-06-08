@@ -29,7 +29,7 @@ loops.everyInterval(5000, function () {
 })
 ```
 
-In this next example we use 4 environmental sensors and an LCD screen to read their measurements. While not essential, it's a good practice to use the initialize LCD block in on start when using the LCD module. Since the LCD screen has 2 rows of 16 characters it can be divided into 4 quadrants of 8 characters. Since we have 4 sensors we can show each measurement in it's own quadrant and refresh the value every half second. Using the rounding block gives control over the decimal places. This can be important to stay within the 8 character limit.
+In this next example we use 4 environmental sensors and an LCD screen to read their measurements. While not essential, it's a good practice to use the initialize LCD block in on start when using the LCD module. Since the LCD screen has 2 rows of 16 characters it can be divided into 4 quadrants of 8 characters. Since we have 4 sensors we can show each measurement in it's own quadrant, refreshing the value every half second. Using the rounding block gives control over the decimal places. This can be important to stay within the 8 character limit.
 
 ```blocks
 opensciedModules.initializeLcd()
