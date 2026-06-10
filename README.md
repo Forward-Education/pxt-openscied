@@ -1,6 +1,6 @@
 # openscied
 
-This extension supports OpenSciEd Jacdac hardware modules. They are available for purchase as kits at [](). The learning experience is supported as part of the [OpenSciEd curriculum](https://openscied.org/curriculum/).
+This extension supports OpenSciEd Jacdac hardware modules. They are available for purchase as kits at [forwardedu.com](https://forwardedu.com/products/openscied-6-3-weather-climate-water-cycling-cs-kit?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web). The learning experience is supported through the [OpenSciEd curriculum](https://openscied.org/curriculum/).
 
 ### ~ reminder
 
