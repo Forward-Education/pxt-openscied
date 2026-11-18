@@ -34,7 +34,7 @@ In this next example we use 4 environmental sensors and an LCD screen to read th
 ```blocks
 opensciedModules.initializeLcd()
 loops.everyInterval(500, function () {
-    opensciedModules.lcd1.printQuadrantNumber(opensciedModules.round(opensciedModules.bmeTemperature.temperature(), 0), 1)
+    opensciedModules.lcd1.printQuadrantNumber(opensciedModules.round(opensciedModules.bmeTemperature.readTemperature(), 0), 1)
     opensciedModules.lcd1.printQuadrantNumber(opensciedModules.round(opensciedModules.bmeHumidity.humidity(), 0), 2)
     opensciedModules.lcd1.printQuadrantNumber(opensciedModules.round(opensciedModules.bmeAirPressure.pressure(), 0), 3)
     opensciedModules.lcd1.printQuadrantNumber(opensciedModules.round(opensciedModules.light1.illuminance(), 0), 4)
