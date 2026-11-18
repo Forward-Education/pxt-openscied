@@ -21,7 +21,8 @@
         "ose-weight": "github:Forward-Education/pxt-ose-modules/ose-weight#v1.1.0"
     },
     "files": [
-        "README.md"
+        "README.md",
+        "tutorial-info-cache.json"
     ],
     "testFiles": [
         "tests/test.ts"
